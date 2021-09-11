@@ -1,0 +1,15 @@
+{
+	"education": [{
+		"School": "UC Berkeley",
+		"Degree": "Master of Information Management and Systems",
+		"Specialization": "Product Management",
+		"Year": "2021 - 2023"
+	},
+	{
+		"School": "UC San Diego",
+		"Degree": "Bachelor of Science in Cognitive Science",
+		"Specialization": "Human-Computer Interaction",
+		"Year": "2013 - 2017"
+	}]
+	
+}
